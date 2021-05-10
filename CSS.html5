@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <title></title>
+    <style>
+        div.A {
+            background-color: red;
+            height: 100vh;
+        }
+        div.B {
+            background-color: black;
+            height: 100vh;
+        }
+        div.C {
+            background-color: red;
+            height: 100vh;
+        }
+        div.D {
+            background-color: black;
+            height: 100vh;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="A">Header</div>
+        <div class="B">Menu</div>
+        <div class="C">MainContent</div>
+        <div class="D">Footer</div>
+    </div>
+</body>
+</html>
